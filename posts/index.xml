@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>文章列表 on My New Hugo Site</title>
-    <link>http://localhost:1313/whitepoise/posts/</link>
+    <link>https://jeff1001tw.github.io/whitepoise/posts/</link>
     <description>Recent content in 文章列表 on My New Hugo Site</description>
     <image>
       <title>My New Hugo Site</title>
-      <url>http://localhost:1313/whitepoise/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/whitepoise/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jeff1001tw.github.io/whitepoise/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jeff1001tw.github.io/whitepoise/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Jul 2025 23:03:52 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/whitepoise/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jeff1001tw.github.io/whitepoise/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/whitepoise/posts/first-post/</link>
+      <link>https://jeff1001tw.github.io/whitepoise/posts/first-post/</link>
       <pubDate>Thu, 24 Jul 2025 23:03:52 +0800</pubDate>
-      <guid>http://localhost:1313/whitepoise/posts/first-post/</guid>
+      <guid>https://jeff1001tw.github.io/whitepoise/posts/first-post/</guid>
       <description>&lt;h3 id=&#34;first-post&#34;&gt;First Post&lt;/h3&gt;</description>
     </item>
   </channel>

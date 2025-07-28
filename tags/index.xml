@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on My New Hugo Site</title>
-    <link>http://localhost:1313/whitepoise/tags/</link>
+    <link>https://jeff1001tw.github.io/whitepoise/tags/</link>
     <description>Recent content in Tags on My New Hugo Site</description>
     <image>
       <title>My New Hugo Site</title>
-      <url>http://localhost:1313/whitepoise/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/whitepoise/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://jeff1001tw.github.io/whitepoise/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://jeff1001tw.github.io/whitepoise/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2025 14:30:00 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/whitepoise/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jeff1001tw.github.io/whitepoise/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>活動</title>
-      <link>http://localhost:1313/whitepoise/tags/%E6%B4%BB%E5%8B%95/</link>
+      <link>https://jeff1001tw.github.io/whitepoise/tags/%E6%B4%BB%E5%8B%95/</link>
       <pubDate>Mon, 28 Jul 2025 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/whitepoise/tags/%E6%B4%BB%E5%8B%95/</guid>
+      <guid>https://jeff1001tw.github.io/whitepoise/tags/%E6%B4%BB%E5%8B%95/</guid>
       <description></description>
     </item>
     <item>
       <title>派對</title>
-      <link>http://localhost:1313/whitepoise/tags/%E6%B4%BE%E5%B0%8D/</link>
+      <link>https://jeff1001tw.github.io/whitepoise/tags/%E6%B4%BE%E5%B0%8D/</link>
       <pubDate>Mon, 28 Jul 2025 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/whitepoise/tags/%E6%B4%BE%E5%B0%8D/</guid>
+      <guid>https://jeff1001tw.github.io/whitepoise/tags/%E6%B4%BE%E5%B0%8D/</guid>
       <description></description>
     </item>
     <item>
       <title>聚會</title>
-      <link>http://localhost:1313/whitepoise/tags/%E8%81%9A%E6%9C%83/</link>
+      <link>https://jeff1001tw.github.io/whitepoise/tags/%E8%81%9A%E6%9C%83/</link>
       <pubDate>Mon, 28 Jul 2025 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/whitepoise/tags/%E8%81%9A%E6%9C%83/</guid>
+      <guid>https://jeff1001tw.github.io/whitepoise/tags/%E8%81%9A%E6%9C%83/</guid>
       <description></description>
     </item>
   </channel>
