@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://localhost:1313/whitepoise/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>最新消息 on My New Hugo Site</title>
+    <link>http://localhost:1313/whitepoise/news/</link>
+    <description>Recent content in 最新消息 on My New Hugo Site</description>
     <image>
       <title>My New Hugo Site</title>
       <url>http://localhost:1313/whitepoise/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.148.1</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 28 Jul 2025 22:30:34 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/whitepoise/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/whitepoise/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>新文章名稱</title>
       <link>http://localhost:1313/whitepoise/news/%E6%96%B0%E6%96%87%E7%AB%A0%E5%90%8D%E7%A8%B1/</link>
@@ -34,27 +34,6 @@
       <pubDate>Mon, 28 Jul 2025 14:30:00 +0800</pubDate>
       <guid>http://localhost:1313/whitepoise/news/%E7%99%BD%E5%B9%B3%E8%A1%A1%E6%9C%80%E6%96%B0%E6%B4%BB%E5%8B%95%E5%85%AC%E5%91%8A/</guid>
       <description>為您介紹我們最新的聚會服務項目</description>
-    </item>
-    <item>
-      <title>空間介紹</title>
-      <link>http://localhost:1313/whitepoise/space/</link>
-      <pubDate>Mon, 28 Jul 2025 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/whitepoise/space/</guid>
-      <description>白平衡提供多功能聚會空間，適合各種類型的活動聚會</description>
-    </item>
-    <item>
-      <title>關於白平衡</title>
-      <link>http://localhost:1313/whitepoise/about/</link>
-      <pubDate>Mon, 28 Jul 2025 14:30:00 +0800</pubDate>
-      <guid>http://localhost:1313/whitepoise/about/</guid>
-      <description>白平衡 White Poise 致力於提供優質的聚會空間服務</description>
-    </item>
-    <item>
-      <title>First Post</title>
-      <link>http://localhost:1313/whitepoise/posts/first-post/</link>
-      <pubDate>Thu, 24 Jul 2025 23:03:52 +0800</pubDate>
-      <guid>http://localhost:1313/whitepoise/posts/first-post/</guid>
-      <description>&lt;h3 id=&#34;first-post&#34;&gt;First Post&lt;/h3&gt;</description>
     </item>
   </channel>
 </rss>
