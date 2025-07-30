@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>派對 on 白平衡 White Poise</title>
-    <link>https://jeff1001tw.github.io/whitepoise/tags/%E6%B4%BE%E5%B0%8D/</link>
-    <description>Recent content in 派對 on 白平衡 White Poise</description>
+    <title>服務介紹 on 白平衡 White Poise</title>
+    <link>https://jeff1001tw.github.io/whitepoise/categories/%E6%9C%8D%E5%8B%99%E4%BB%8B%E7%B4%B9/</link>
+    <description>Recent content in 服務介紹 on 白平衡 White Poise</description>
     <image>
       <title>白平衡 White Poise</title>
       <url>https://jeff1001tw.github.io/whitepoise/cover.jpg</url>
@@ -11,15 +11,8 @@
     </image>
     <generator>Hugo -- 0.148.1</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Jul 2025 14:30:00 +0800</lastBuildDate>
-    <atom:link href="https://jeff1001tw.github.io/whitepoise/tags/%E6%B4%BE%E5%B0%8D/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>白平衡最新活動公告</title>
-      <link>https://jeff1001tw.github.io/whitepoise/news/%E7%99%BD%E5%B9%B3%E8%A1%A1%E6%9C%80%E6%96%B0%E6%B4%BB%E5%8B%95%E5%85%AC%E5%91%8A/</link>
-      <pubDate>Mon, 28 Jul 2025 14:30:00 +0800</pubDate>
-      <guid>https://jeff1001tw.github.io/whitepoise/news/%E7%99%BD%E5%B9%B3%E8%A1%A1%E6%9C%80%E6%96%B0%E6%B4%BB%E5%8B%95%E5%85%AC%E5%91%8A/</guid>
-      <description>為您介紹我們最新的聚會服務項目</description>
-    </item>
+    <lastBuildDate>Mon, 28 Jul 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://jeff1001tw.github.io/whitepoise/categories/%E6%9C%8D%E5%8B%99%E4%BB%8B%E7%B4%B9/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>白平衡空間介紹</title>
       <link>https://jeff1001tw.github.io/whitepoise/posts/%E7%99%BD%E5%B9%B3%E8%A1%A1%E7%A9%BA%E9%96%93%E4%BB%8B%E7%B4%B9/</link>

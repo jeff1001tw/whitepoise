@@ -11,13 +11,27 @@
     </image>
     <generator>Hugo -- 0.148.1</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Jul 2025 14:30:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2025 15:30:00 +0800</lastBuildDate>
     <atom:link href="https://jeff1001tw.github.io/whitepoise/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>派對指南</title>
+      <link>https://jeff1001tw.github.io/whitepoise/categories/%E6%B4%BE%E5%B0%8D%E6%8C%87%E5%8D%97/</link>
+      <pubDate>Tue, 29 Jul 2025 15:30:00 +0800</pubDate>
+      <guid>https://jeff1001tw.github.io/whitepoise/categories/%E6%B4%BE%E5%B0%8D%E6%8C%87%E5%8D%97/</guid>
+      <description></description>
+    </item>
     <item>
       <title>最新消息</title>
       <link>https://jeff1001tw.github.io/whitepoise/categories/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</link>
       <pubDate>Mon, 28 Jul 2025 14:30:00 +0800</pubDate>
       <guid>https://jeff1001tw.github.io/whitepoise/categories/%E6%9C%80%E6%96%B0%E6%B6%88%E6%81%AF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>服務介紹</title>
+      <link>https://jeff1001tw.github.io/whitepoise/categories/%E6%9C%8D%E5%8B%99%E4%BB%8B%E7%B4%B9/</link>
+      <pubDate>Mon, 28 Jul 2025 10:00:00 +0800</pubDate>
+      <guid>https://jeff1001tw.github.io/whitepoise/categories/%E6%9C%8D%E5%8B%99%E4%BB%8B%E7%B4%B9/</guid>
       <description></description>
     </item>
   </channel>
